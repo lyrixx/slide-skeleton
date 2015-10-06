@@ -1,4 +1,4 @@
-Siles skeleton
+Slide Skeleton
 ==============
 
 What is it ?
@@ -22,7 +22,7 @@ Installation
 Usage
 -----
 
-Just run `./build.sh` and open index.html
+Just run `bin/build.sh` and open `index.html`
 
 Help
 ----
